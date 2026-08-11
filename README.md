@@ -7,7 +7,6 @@ Membangun aplikasi web dan mobile dari sisi backend hingga antarmuka, dengan pen
 
 <p align="center">
   <a href="mailto:bagasbani789@gmail.com"><img src="https://img.shields.io/badge/Email-bagasbani789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/6208978578717"><img src="https://img.shields.io/badge/Phone-0897--8578--717-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Kota%20Tangerang%2C%20Indonesia-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
   <a href="https://github.com/Avlyxa1"><img src="https://img.shields.io/badge/GitHub-Avlyxa1-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
