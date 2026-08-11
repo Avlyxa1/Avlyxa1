@@ -92,14 +92,6 @@ Pemutar musik Android dengan daftar lagu berbasis RecyclerView, kontrol play/pau
 
 > Selain proyek di atas, repository GitHub juga berisi latihan praktikum mata kuliah Pemrograman Web dan Mobile Lanjut — lihat selengkapnya di [github.com/Avlyxa1](https://github.com/Avlyxa1).
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avlyxa1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avlyxa1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
