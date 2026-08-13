@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Bagas Bani Aryasatya</h1>
 <h3 align="center">Mahasiswa Sistem Informasi · Full-Stack & Mobile Developer</h3>
 
-<p align="center">
-Membangun aplikasi web dan mobile dari sisi backend hingga antarmuka, dengan pengalaman di React, React Native, Node.js, dan integrasi Firebase. Terbiasa bekerja individu maupun tim, dengan ketertarikan pada <b>AI-assisted development</b> dan kolaborasi berbasis komunitas.
-</p>
 
 <p align="center">
   <a href="mailto:bagasbani789@gmail.com"><img src="https://img.shields.io/badge/Email-bagasbani789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
