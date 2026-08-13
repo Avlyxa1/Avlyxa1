@@ -93,10 +93,5 @@ Pemutar musik Android dengan daftar lagu berbasis RecyclerView, kontrol play/pau
 
 ---
 
-### Minat
-
-`Volunteering` `Team Collaboration` `Project Building` `Artificial Intelligence`
-
----
 
 <p align="center">© 2026 Bagas Bani Aryasatya · bagasbani789@gmail.com</p>
