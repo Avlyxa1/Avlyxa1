@@ -12,22 +12,6 @@ Membangun aplikasi web dan mobile dari sisi backend hingga antarmuka, dengan pen
 
 ---
 
-### Pendidikan
-
-**UPN "Veteran" Jakarta**
-Sistem Informasi, D3 · IPK 3.85/4.00 · 2024 – Sekarang
-
-**IBM Student Developer Initiative**
-Peserta · Oktober 2025 · AI-assisted code generation & optimization
-
-**Sertifikasi:**
-- IBM Certified Code Generation & Optimization
-- IBM Certified Generative AI for Software Development
-- IBM Granite Models for Software Development
-- TeBI – UPN "Veteran" Jakarta
-
----
-
 ### Keahlian
 
 **Bahasa & Framework**
