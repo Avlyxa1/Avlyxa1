@@ -72,7 +72,3 @@ Pemutar musik Android dengan daftar lagu berbasis RecyclerView, kontrol play/pau
 > Selain proyek di atas, repository GitHub juga berisi latihan praktikum mata kuliah Pemrograman Web dan Mobile Lanjut — lihat selengkapnya di [github.com/Avlyxa1](https://github.com/Avlyxa1).
 
 
----
-
-
-<p align="center">© 2026 Bagas Bani Aryasatya · bagasbani789@gmail.com</p>
